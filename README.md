@@ -1,1 +1,1 @@
-# store-test-automation
+Test if content of the site is being changed after setting right flags such as --language and --browser_name whi is previously described by fixtures in conftest.py file.Test is located in test_items.py file 
